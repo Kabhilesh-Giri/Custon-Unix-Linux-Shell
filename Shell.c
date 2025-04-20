@@ -1,6 +1,5 @@
 /*
  * NAME: Kabhilesh Giri
- * NUID: 002371962
  * NEU MAIL : giri.k@northeastern.edu
  * A simple Unix shell implementation in C.
  * Features:
