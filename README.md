@@ -1,4 +1,4 @@
-# Custon-Unix-Linux-Shell
+# Custom-Unix-Linux-Shell
 
 **Author:** Kabhilesh Giri  
 **Email:** giri.k@northeastern.edu  
